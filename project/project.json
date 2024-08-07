@@ -1,0 +1,22 @@
+[
+ {
+        "title": "Login From",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/form.png",
+        "desc":"This is my first project. create a login form using HTML & CSS",
+        "links": {
+            "demo": "https://loginzz.johnzzzz.repl.co",
+            "code": "-------"
+        }
+    },
+  {
+        "title": "Portfolio Website",
+        "tech": "HTML, CSS & BOOTSTRAP",
+        "image": "./assets/img/project/portfolio.png",
+        "desc": "This is my project for personal portfolio.",
+        "links": {
+            "demo": "https://portofolio.juniyyyy.repl.co",
+            "code": "------"
+        }
+    }
+]
